@@ -1,0 +1,6 @@
+.env
+durum.json
+nohup*.out
+__pycache__/
+*.pyc
+bilgi.md
